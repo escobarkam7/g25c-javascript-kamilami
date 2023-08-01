@@ -1,0 +1,2 @@
+# JavaScripMyRepo
+repo kata JS
